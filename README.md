@@ -106,4 +106,5 @@ This repo also covers **error handling** (e.g., catching `HttpException`), **Roo
 
 🔗 Let’s discuss! How do you handle data sync in your apps? Drop your thoughts in the comments! 💬👇
  
+<img width="723" alt="AppDataSync" src="https://github.com/user-attachments/assets/e7a7d0a9-31c3-4363-b2fd-782d4496ea72" />
 
